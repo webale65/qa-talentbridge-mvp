@@ -27,10 +27,10 @@ Validar la calidad del MVP asegurando el correcto funcionamiento de los flujos p
 
 ## Documentación QA
 
-📄 Test Plan  
+📄 **Test Plan**  
 https://docs.google.com/document/d/1LIRGUmYYku8TRG1b9j0iq10jfCgawhdXeqzb3qcMCK8/edit
 
-📊 Test Cases  
+📊 **Test Cases**  
 https://docs.google.com/spreadsheets/d/1bSsUX-p1uzFZktvOBi6MgAKpbSm4eamy5vHfhCx6bss/edit
 
 ## Estructura del repositorio
@@ -43,6 +43,9 @@ https://docs.google.com/spreadsheets/d/1bSsUX-p1uzFZktvOBi6MgAKpbSm4eamy5vHfhCx6
 
 QA preparado. Test cases definidos y listos para ejecución cuando el desarrollo esté disponible.
 
+## Rol
+
+QA Engineer responsable de la definición de la estrategia de testing, diseño de casos de prueba y cobertura funcional completa del sistema, incluyendo validaciones UX y seguridad.
 ## Rol
 
 QA Engineer responsable de la definición de la estrategia de testing, diseño de casos de prueba y cobertura funcional completa del sistema, incluyendo validaciones UX y seguridad.
