@@ -46,8 +46,3 @@ QA preparado. Test cases definidos y listos para ejecución cuando el desarrollo
 ## Rol
 
 QA Engineer responsable de la definición de la estrategia de testing, diseño de casos de prueba y cobertura funcional completa del sistema, incluyendo validaciones UX y seguridad.
-## Rol
-
-QA Engineer responsable de la definición de la estrategia de testing, diseño de casos de prueba y cobertura funcional completa del sistema, incluyendo validaciones UX y seguridad.
-
-QA Engineer - Definición de estrategia de testing, diseño de casos de prueba y cobertura funcional del sistema.
