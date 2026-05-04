@@ -1,14 +1,14 @@
 # Test Cases - TalentBridge MVP
 
-Los casos de prueba fueron diseñados cubriendo el flujo completo del MVP.
+Los casos de prueba fueron diseñados para cubrir el flujo completo del MVP, asegurando la validación de las funcionalidades principales del sistema.
 
 ## Cobertura
 
-- Auth
+- Autenticación (registro / login)
 - Onboarding
-- Perfil
-- Diagnóstico
-- Resultados
+- Perfil profesional
+- Diagnóstico de habilidades
+- Resultados y asignación de nivel
 - Ruta de aprendizaje
 - Marketplace
 - Notificaciones
@@ -22,5 +22,9 @@ Los casos de prueba fueron diseñados cubriendo el flujo completo del MVP.
 
 ## Test Cases completos
 
-📊 Google Sheets:
-[PEGAR AQUÍ TU LINK DE TEST CASES]
+📊 Google Sheets:  
+https://docs.google.com/spreadsheets/d/1bSsUX-p1uzFZktvOBi6MgAKpbSm4eamy5vHfhCx6bss/edit
+
+## Estado
+
+Los casos de prueba están definidos y listos para ejecución una vez que el desarrollo de las funcionalidades esté disponible.
