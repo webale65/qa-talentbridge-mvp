@@ -17,6 +17,9 @@ Validar la calidad del MVP asegurando el correcto funcionamiento de los flujos p
 - Marketplace
 - Notificaciones
 
+Nota: El alcance incluye funcionalidades planificadas del MVP. 
+La ejecución de testing se realizará de forma progresiva según disponibilidad de desarrollo.
+
 ## Enfoque de Testing
 
 - Pruebas funcionales
@@ -24,6 +27,10 @@ Validar la calidad del MVP asegurando el correcto funcionamiento de los flujos p
 - Testing end-to-end
 - Escenarios negativos
 - Validaciones de seguridad (datos sensibles)
+
+### Valor QA
+
+Este enfoque permite detectar errores tempranos, reducir riesgos en el flujo principal y asegurar una experiencia clara para el usuario final.
 
 ## Documentación QA
 
@@ -46,3 +53,7 @@ QA preparado. Test cases definidos y listos para ejecución cuando el desarrollo
 ## Rol
 
 QA Engineer responsable de la definición de la estrategia de testing, diseño de casos de prueba y cobertura funcional completa del sistema, incluyendo validaciones UX y seguridad.
+
+## Conclusión
+
+La estrategia QA está preparada para acompañar el desarrollo del MVP, asegurando calidad, trazabilidad y validación continua del producto.
